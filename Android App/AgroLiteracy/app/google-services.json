@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "421839217862",
+    "firebase_url": "https://agroliteracy.firebaseio.com",
+    "project_id": "agroliteracy",
+    "storage_bucket": "agroliteracy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421839217862:android:81271eecae61ab71",
+        "android_client_info": {
+          "package_name": "com.example.neha.agroliteracy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "421839217862-eidj0qcqp4nemo42ratasqhpb62c0p8q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.neha.agroliteracy",
+            "certificate_hash": "2ceadc902b75deb88818672a71e0840e0cd30cb4"
+          }
+        },
+        {
+          "client_id": "421839217862-kio3idit6k2llqsvr0p3om655abrdoqt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1xZKNOJZR8B-Mhx15HKbeTNu7Rcged3E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "421839217862-kio3idit6k2llqsvr0p3om655abrdoqt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

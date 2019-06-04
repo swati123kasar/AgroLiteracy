@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/analysis"
+            android:title="Analysis" />
+        <item
+            android:id="@+id/growth"
+           android:title="Check your growth" />
+        <item
+            android:id="@+id/tips"
+           android:title="Tips"
+           />
+        <item
+            android:id="@+id/special"
+            android:title="Special Tips"/>
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/query"
+                android:title="Ask Query" />
+                <!--android:icon="@drawable/ic_menu_share"-->
+
+            <item
+                android:id="@+id/logout"
+                android:title="Logout" />
+
+
+        </menu>
+    </item>
+
+</menu>
